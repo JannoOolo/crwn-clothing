@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 // special syntax in REact for importing SVG
+// https://create-react-app.dev/docs/adding-images-fonts-and-files/
 import { ReactComponent as Logo } from "../../assets/crown.svg";
 
 import "./header.syles.scss";
